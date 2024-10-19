@@ -1,0 +1,8 @@
+[package]
+name = "uda"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+yagi = "0.0.3"
